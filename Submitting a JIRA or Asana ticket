@@ -1,0 +1,15 @@
+When submitting a JIRA or Asana ticket provide the following:
+
+Ticket Information: Zendesk ticket #, account name, Sev-#, business impact
+Problem statement:  Most likely the description that customer has provided, but if it lacks content, then do provide.
+Expected behavior:  It could be that what you were expecting is not correct, so it is always good practice to document what behavior you were expecting
+Observed behavior:  What is the behavior that the product is manifesting?
+What have you done:  This is where your troubleshooting comes into play.  It shows you have done your diligence to address the issue.  Some troubleshooting verification you may do are:
+OS and system resources:  
+OS platform, OS version
+Resource:  memory, RAM, disk space, disk I/O, running tasks, CPU
+Configuration
+Logs
+Don't forget to attach relevant information to the JIRA ticket, such as:
+Screenshot of observed behavior
+Logs
